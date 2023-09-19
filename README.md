@@ -1,1 +1,1 @@
-# A small script designed for quick, automatic completion of the questionnaire for registration in the project
+# A small script designed to quickly automatically fill out a form for registering in a project. Written using the Selenium library.
